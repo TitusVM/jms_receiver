@@ -2,6 +2,7 @@
 *.java.hsp
 *.sonarj
 *.sw*
+book_api.log
 .DS_Store
 build.sh
 integration-repo
