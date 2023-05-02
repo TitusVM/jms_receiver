@@ -1,2 +1,6 @@
-# jms_receiver
+# JMS-Receiver
 JMS Receiver for this [book_api](https://github.com/TitusVM/book_api/tree/main)
+# Projet Spring:
+* API Rest: [book_api](https://github.com/TitusVM/book_api)
+* UI Interface utilisant l'API: [UI](https://github.com/TitusVM/spring-ui)
+* JMS-Receiver pour recevoir les logs JMS produits par l'API: [JMS-Receiver](https://github.com/TitusVM/jms_receiver)
